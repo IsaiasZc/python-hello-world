@@ -4,7 +4,6 @@ I picked Python because I had some exposure to it before and wanted to get comfo
 
 The trickiest part was remembering that a `for` loop in Python doesn't need parentheses like in other languages. Kept second-guessing the syntax at first.
 
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
